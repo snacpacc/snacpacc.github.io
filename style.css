@@ -22,6 +22,9 @@
 header {
 	font-size: 1.2em;
 	height: 75px;
+	color: white;
+	
+	
 }
 
 body {
@@ -29,6 +32,8 @@ body {
 	padding: 0;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	height: 100px;
+	
+
 }
 
 h1{
@@ -47,12 +52,16 @@ a:link {
 	color: white;
 }
 
+a:visited {
+	color: green;
+}
+
 /* Layout Styles */
 
 
 .main-header {
 	background: black;
-	color: white;
+	
 }
 
 .resources-header {
@@ -72,6 +81,7 @@ a:link {
 	list-style: none;
 	padding: 5px;
 }
+
 
 footer {
   width: 100%;
