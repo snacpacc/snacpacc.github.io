@@ -9,7 +9,7 @@
 /*Feel free to download the source code				 */
 /*													 */
 /*													 */
-/*													 */
+/*	Last Updated: Apr 4 2019 						 */
 /*													 */
 /*****************************************************/
 /*****************************************************/
@@ -84,7 +84,11 @@ a:visited:hover {
 }
 
 .aboutme-header {
-	background-color: aquamarine;
+	background-color: MediumSpringGreen;
+}
+
+.resume-header {
+	background-color: DeepSkyBlue;
 }
 
 .name {
