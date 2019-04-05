@@ -35,6 +35,10 @@ body {
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 
+main {
+	padding: 0 10rem 0 10rem;
+}
+
 h1{
 	
 }
@@ -42,25 +46,28 @@ h1{
 p {
 	
 }
+ul {
+	list-style: none;
+}
 
 a {
 	text-decoration: none;
 }
 
 a:link {
-	color: white;
+	
 }
 
 a:hover {
-	color: grey;
+	
 }
 
 a:visited {
-	color: darkgrey;
+	
 }
 
 a:visited:hover {
-	color: grey;
+	
 	
 }
 
