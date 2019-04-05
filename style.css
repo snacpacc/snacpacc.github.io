@@ -53,46 +53,54 @@ a {
 }
 
 a:link {
-	
+	color: white;
 }
 
 a:hover {
-	
+	color: DimGrey;
 }
 
 a:visited {
-	
+	color: white;
 }
 
 a:visited:hover {
 	
-	
+	color: grey;
 }
 
 /* Layout Styles */
 
 .container {
-	
 	text-align: center;
 	display: block;
 }
 
 .main-header {
 	background: black;
+	color: grey;
 	
 }
 
 .resources-header {
 	background: tomato;
+	color: white;
 	
 }
 
 .aboutme-header {
 	background-color: MediumSpringGreen;
+	color: white;
 }
 
 .resume-header {
 	background-color: DeepSkyBlue;
+	color: white;
+
+}
+
+.body-resume {
+	padding-left: 15rem;
 }
 
 .name {
