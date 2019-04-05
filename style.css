@@ -120,6 +120,14 @@ a:visited:hover {
 	padding: 15px;
 }
 
+.twocolumns {
+	columns: 2;
+}
+
+.threecolumns {
+	columns: 3;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
@@ -177,6 +185,9 @@ a.social:hover {
 		float: left;
 	}
 	
+	.floatright {
+		float: right;
+	}
 	.nav {
 		float: right;
 
