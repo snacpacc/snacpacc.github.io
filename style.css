@@ -82,21 +82,26 @@ a:visited:hover {
 	
 }
 
-.resources-header {
-	background: tomato;
-	color: white;
-	
-}
 
 .aboutme-header {
-	background-color: MediumSpringGreen;
+	background-color: #0CBFE8;
 	color: white;
 }
 
 .resume-header {
-	background-color: DeepSkyBlue;
+	background-color: #01FFE9;
 	color: white;
 
+}
+
+.resources-header {
+	background: #0CE897;
+	color: white;
+	
+}
+
+.contactme-header {
+	background-color: #0DCD6E;
 }
 
 .body-resume {
