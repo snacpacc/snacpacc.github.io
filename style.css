@@ -38,7 +38,7 @@ main {
 }
 
 h1{
-	
+
 }
 
 p {
@@ -84,8 +84,17 @@ a:visited:hover {
 
 
 .aboutme-header {
-	background: linear-gradient(90deg, rgba(250,0,255,1) 0%, rgba(0,239,255,1) 100%);;
+	background: linear-gradient(96deg, rgba(210,206,78,1) 0%, rgba(0,231,255,1) 45%, rgba(5,13,130,1) 100%);
 	color: white;
+}
+
+.aboutme-col1 {
+	width: 392px;
+	height: 400px;
+}
+
+.aboutme-main {
+	text-align: center;
 }
 
 .resume-header {
@@ -198,6 +207,18 @@ a.social:hover {
 	
 	.floatright {
 		float: right;
+	}
+	
+	.floatleft {
+		float: left;
+	}
+	
+	.floatnone {
+		float: none
+	}
+	
+	.floatinherit {
+		float:inherit;
 	}
 	.nav {
 		float: right;
