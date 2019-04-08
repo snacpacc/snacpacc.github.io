@@ -84,24 +84,24 @@ a:visited:hover {
 
 
 .aboutme-header {
-	background-color: #0CBFE8;
+	background: linear-gradient(90deg, rgba(250,0,255,1) 0%, rgba(0,239,255,1) 100%);;
 	color: white;
 }
 
 .resume-header {
-	background-color: #01FFE9;
+	background: linear-gradient(90deg, rgba(0,230,255,1) 0%, rgba(32,32,131,1) 100%);
 	color: white;
 
 }
 
 .resources-header {
-	background: #0CE897;
+	background: linear-gradient(90deg, rgba(251,214,34,1) 0%, rgba(236,60,60,1) 100%);
 	color: white;
 	
 }
 
 .contactme-header {
-	background-color: #0DCD6E;
+	background: linear-gradient(90deg, rgba(38,99,255,1) 0%, rgba(0,255,83,1) 100%);
 }
 
 .body-resume {
@@ -132,6 +132,7 @@ a:visited:hover {
 
 .twocolumns {
 	columns: 2;
+	
 }
 
 .threecolumns {
